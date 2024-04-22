@@ -14,5 +14,7 @@
 1. 국토교통부_전국교량표준데이터(20220627)
 2. 2022_도로_교량_및터널현황조서
 
-### 분석 과정
-[데이터셋 구성](https://github.com/2Kyoungh/Bridge-Analysis/blob/main/%EA%B5%90%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0(%EA%B5%90%ED%86%B5%EB%9F%89%EC%B2%98%EB%A6%AC).ipynb)<br><br>
+## 분석 과정
+[1. 데이터셋 결측값 처리](https://github.com/2Kyoungh/Bridge-Analysis/blob/main/%EA%B5%90%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0(%EA%B5%90%ED%86%B5%EB%9F%89%EC%B2%98%EB%A6%AC).ipynb)<br><br>
+## 교량 각 항목 분석
+[2. 교량 항목 분석]()<br><br>
